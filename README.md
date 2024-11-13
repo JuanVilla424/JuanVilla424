@@ -41,15 +41,15 @@ na0nh
 
 ## 📚 Featured Projects
 
-### [Project One](https://github.com/[your-username]/[project-one-repo])
-![Project One](https://github.com/[your-username]/[project-one-repo]/blob/main/screenshot.png?raw=true)
+### [Github CICD Template](https://github.com/JuanVilla424/github-cicd-template)
+![Github CICD Template](https://github.com/JuanVilla424/github-cicd-template/blob/main/screenshot.png?raw=true)
 
-A brief description of Project One. Highlight what it does, technologies used, and any other relevant information.
+Github CICD Template Repository
 
-### [Project Two](https://github.com/[your-username]/[project-two-repo])
-![Project Two](https://github.com/[your-username]/[project-two-repo]/blob/main/screenshot.png?raw=true)
+### [Scripts](https://github.com/JuanVilla424/scripts)
+![Scripts](https://github.com/JuanVilla424/scripts/blob/main/screenshot.png?raw=true)
 
-A brief description of Project Two. Highlight what it does, technologies used, and any other relevant information.
+CICD Core Scripts Repository
 
 ## 📊 Contributions
 
