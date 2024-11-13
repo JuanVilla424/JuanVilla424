@@ -1,6 +1,4 @@
-# 👋 Hi, I’m na0nh
-
-## 🚀 About Me
+# 🚀 About Me
 
 na0nh
 
