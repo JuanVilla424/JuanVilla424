@@ -51,7 +51,7 @@ na0nh
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVilla424&layout=compact&theme=radical)
 
-![Commits Github Activity Graph](static/images/contributions.png)
+![Commits Github Activity Graph](https://raw.githubusercontent.com/JuanVilla424/JuanVilla424/main/static/images/contributions.png)
 
 ## 🏆 GitHub Trophies
 
