@@ -29,6 +29,8 @@ na0nh
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVilla424&layout=compact&theme=radical)
 
+![Commit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanVilla424)
+
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JuanVilla424&theme=radical)
