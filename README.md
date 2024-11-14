@@ -27,11 +27,11 @@ na0nh
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVilla424&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=[your-username]&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=JuanVilla424&theme=radical)
 
 ## 🔗 Connect with Me
 
@@ -53,15 +53,13 @@ CICD Core Scripts Repository
 
 ## 📊 Contributions
 
-![Contributions](https://github-contribution-stats.vercel.app/api/?username=[your-username]&theme=radical)
+![Contributions](https://github-contribution-stats.vercel.app/api/?username=JuanVilla424&theme=radical)
 
 ## 📫 Contact
 
 For any inquiries or support, please open an issue or contact [r6ty5r296it6tl4eg5m.constant214@passinbox.com](mailto:r6ty5r296it6tl4eg5m.constant214@passinbox.com).
-
 ---
 
 ## 📜 License
 
-2024 - This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this software under the terms of the GPL-3.0 license. For more details, please refer to the [LICENSE](LICENSE) file included in this repository.
-
+2024 - Each repo contains its owns license. see **LICENSE**
