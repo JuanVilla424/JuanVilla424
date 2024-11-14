@@ -53,7 +53,7 @@ CICD Core Scripts Repository
 
 ## 📊 Contributions
 
-![Contributions](https://github-contribution-stats.vercel.app/api/?username=JuanVilla424&theme=radical)
+![Contributions](https://github-contributions.vercel.app/api/?username=JuanVilla424&theme=github_dark)
 
 ## 📫 Contact
 
