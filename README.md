@@ -5,21 +5,25 @@ na0nh
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -44,11 +48,13 @@ na0nh
 ## 📚 Featured Projects
 
 ### [Github CICD Template](https://github.com/JuanVilla424/github-cicd-template)
+
 ![Github CICD Template](https://github.com/JuanVilla424/github-cicd-template/blob/main/screenshot.png?raw=true)
 
 Github CICD Template Repository
 
 ### [Scripts](https://github.com/JuanVilla424/scripts)
+
 ![Scripts](https://github.com/JuanVilla424/scripts/blob/main/screenshot.png?raw=true)
 
 CICD Core Scripts Repository
@@ -61,8 +67,7 @@ CICD Core Scripts Repository
 
 ## 📫 Contact
 
-For any inquiries or support, please open an issue or contact [r6ty5r296it6tl4eg5m.constant214@passinbox.com](mailto:r6ty5r296it6tl4eg5m.constant214@passinbox.com).
----
+## For any inquiries or support, please open an issue or contact [r6ty5r296it6tl4eg5m.constant214@passinbox.com](mailto:r6ty5r296it6tl4eg5m.constant214@passinbox.com).
 
 ## 📜 License
 
