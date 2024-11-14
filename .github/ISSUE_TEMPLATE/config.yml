@@ -1,0 +1,11 @@
+---
+# .github/ISSUE_TEMPLATE/config.yml
+
+blank_issues_enabled: false
+contact_links:
+  - name: Na0nh's Community Support
+    url: https://github.com/JuanVilla424/JuanVilla424/discussions
+    about: Please ask and answer questions here.
+  - name: Na0nh's Security Reports
+    url: https://JuanVilla424.github.io/bjorn/SECURITY
+    about: Please report security vulnerabilities here.
