@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "na0nh"
-version = "1.0.6"
+version = "1.0.7"
 description = "na0nh repo info."
 authors = ["B <g46327wsj1.marbling129@passinbox.com>"]
 license = "GLPv3"
