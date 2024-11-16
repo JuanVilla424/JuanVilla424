@@ -1,0 +1,42 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Redirecting...</title>
+        <script>
+            function getPreferredLanguage() {
+                // Check if 'language' parameter exists in the URL
+                var urlParams = new URLSearchParams(window.location.search);
+                var lang = urlParams.get('language') || localStorage.getItem('language');
+
+                if (!lang) {
+                    // Get the browser's language
+                    lang = navigator.language || navigator.userLanguage;
+                    lang = lang.split('-')[0];
+                }
+
+                lang = lang.toLowerCase();
+
+                // List of supported languages
+                var supportedLangs = ["english", "spanish", "french", "german", "mandarin", "chinese", "arabic", "bengali", "portugues", "japanese"];
+
+                if (!supportedLangs.includes(lang)) {
+                    lang = 'english';  // Default to English if not supported
+                }
+
+                return lang;
+            }
+
+            var lang = getPreferredLanguage();
+            // Save the preferred language to localStorage for future visits
+            localStorage.setItem('language', lang);
+
+            // Redirect to the corresponding language file
+            window.location.href = 'output_' + lang + '_index.html';
+        </script>
+    </head>
+    <body>
+        <p>Redirecting to your language preference...</p>
+    </body>
+    </html>
