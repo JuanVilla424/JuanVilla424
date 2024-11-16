@@ -132,3 +132,7 @@ $RECYCLE.BIN/
 *.njsproj
 *.sln
 *.sw?
+
+# Langding - landing lang AI generation
+langding
+output
