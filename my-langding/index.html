@@ -1,14 +1,14 @@
 
     <!DOCTYPE html>
-    <html>
+    <html lang="en">
     <head>
         <meta charset="UTF-8">
         <title>Redirecting...</title>
         <script>
             function getPreferredLanguage() {
                 // Check if 'language' parameter exists in the URL
-                var urlParams = new URLSearchParams(window.location.search);
-                var lang = urlParams.get('language') || localStorage.getItem('language');
+                let urlParams = new URLSearchParams(window.location.search);
+                let lang = urlParams.get('language') || localStorage.getItem('language');
 
                 if (!lang) {
                     // Get the browser's language
@@ -19,7 +19,7 @@
                 lang = lang.toLowerCase();
 
                 // List of supported languages
-                var supportedLangs = ["english", "spanish", "french", "german", "mandarin", "chinese", "arabic", "bengali", "portugues", "japanese"];
+                let supportedLangs = ["english", "spanish", "french", "german", "mandarin", "chinese", "arabic", "bengali", "portugues", "japanese"];
 
                 if (!supportedLangs.includes(lang)) {
                     lang = 'english';  // Default to English if not supported
@@ -28,7 +28,7 @@
                 return lang;
             }
 
-            var lang = getPreferredLanguage();
+            let lang = getPreferredLanguage();
             // Save the preferred language to localStorage for future visits
             localStorage.setItem('language', lang);
 
