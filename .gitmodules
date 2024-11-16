@@ -2,3 +2,6 @@
 	path = scripts
 	url = https://github.com/JuanVilla424/scripts.git
 	branch = dev
+[submodule "langding"]
+	path = langding
+	url = https://github.com/JuanVilla424/langding.git
