@@ -135,4 +135,6 @@ $RECYCLE.BIN/
 
 # Langding - landing lang AI generation
 langding
+langding/input
+langding/output
 output
