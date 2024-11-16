@@ -8,9 +8,10 @@ na0nh
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Virtualization](https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Storage](https://img.shields.io/badge/STORAGE-4B0082?style=for-the-badge&logo=database&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-000000?style=for-the-badge&logo=supercomputer&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-200003?style=for-the-badge&logo=globe&logoColor=white)
+![Storage](https://img.shields.io/badge/Storage-4B0082?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-000000?style=for-the-badge&logo=speedtest&logoColor=white)
+![High Availability](https://img.shields.io/badge/High%20Availability-00AA00?style=for-the-badge&logo=privatedivision&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-200003?style=for-the-badge&logo=icinga&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -18,16 +19,21 @@ na0nh
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Tools & Platforms
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-339933?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-FFFFFF?style=for-the-badge&logo=subversion&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Programming Languages
@@ -64,7 +70,7 @@ na0nh
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-username]/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[you-are-fine?]/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/na0nh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r6ty5r296it6tl4eg5m.constant214@passinbox.com)
 
