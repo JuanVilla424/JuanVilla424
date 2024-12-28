@@ -1,7 +1,5 @@
 # 🚀 About Me
 
-na0nh
-
 ## 🛠️ Skills & Technologies
 
 ### Servers
@@ -12,7 +10,6 @@ na0nh
 ![HPC](https://img.shields.io/badge/HPC-000000?style=for-the-badge&logo=speedtest&logoColor=white)
 ![High Availability](https://img.shields.io/badge/High%20Availability-00AA00?style=for-the-badge&logo=privatedivision&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-200003?style=for-the-badge&logo=icinga&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-F7931E?style=for-the-badge&logo=Elastic&logoColor=white)
@@ -71,7 +68,6 @@ na0nh
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[are-you-ok?]/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/na0nh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r6ty5r296it6tl4eg5m.constant214@passinbox.com)
 
 ## 📚 Featured Projects
