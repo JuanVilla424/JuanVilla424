@@ -96,4 +96,4 @@ For any inquiries or support, please open an issue or contact [r6ty5r296it6tl4eg
 
 ## 📜 License
 
-2024 - Each repo contains its owns license. see **LICENSE**
+2025 - Each repo contains its owns license. see **LICENSE**
