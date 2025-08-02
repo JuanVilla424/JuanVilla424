@@ -1,42 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Language Selection</title>
+    <script>
+        function getPreferredLanguage() {
+            const urlParams = new URLSearchParams(window.location.search);
+            let lang = urlParams.get('lang') || localStorage.getItem('preferred_language');
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Redirecting...</title>
-        <script>
-            function getPreferredLanguage() {
-                // Check if 'language' parameter exists in the URL
-                let urlParams = new URLSearchParams(window.location.search);
-                let lang = urlParams.get('language') || localStorage.getItem('language');
-
-                if (!lang) {
-                    // Get the browser's language
-                    lang = navigator.language || navigator.userLanguage;
-                    lang = lang.split('-')[0];
-                }
-
-                lang = lang.toLowerCase();
-
-                // List of supported languages
-                let supportedLangs = ["english", "spanish", "french", "german", "mandarin", "chinese", "arabic", "bengali", "portugues", "japanese"];
-
-                if (!supportedLangs.includes(lang)) {
-                    lang = 'english';  // Default to English if not supported
-                }
-
-                return lang;
+            if (!lang) {
+                lang = navigator.language || navigator.userLanguage;
+                lang = lang.split('-')[0].toLowerCase();
             }
 
-            let lang = getPreferredLanguage();
-            // Save the preferred language to localStorage for future visits
-            localStorage.setItem('language', lang);
+            const supportedLangs = ["english", "spanish", "french", "german", "portuguese", "italian", "japanese", "korean", "chinese", "arabic"];
 
-            // Redirect to the corresponding language file
-            window.location.href = 'output_' + lang + '_index.html';
-        </script>
-    </head>
-    <body>
-        <p>Redirecting to your language preference...</p>
-    </body>
-    </html>
+            if (!supportedLangs.includes(lang)) {
+                lang = 'english';
+            }
+
+            return lang;
+        }
+
+        const lang = getPreferredLanguage();
+        localStorage.setItem('preferred_language', lang);
+
+        // Redirect to language-specific file
+        window.location.href = lang + '_index.html';
+    </script>
+</head>
+<body>
+    <p>Detecting your language preference...</p>
+</body>
+</html>
