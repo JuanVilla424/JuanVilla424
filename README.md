@@ -1,201 +1,86 @@
 <div align="center">
 
-# 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=JuanVilla424&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;DevOps+Engineer;Cloud+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+Architect" alt="Typing SVG" />
+
+<br><br>
+
+[![Followers](https://img.shields.io/github/followers/JuanVilla424?style=flat-square&color=00d9ff&labelColor=1a1b27)](https://github.com/JuanVilla424?tab=followers)
+[![Stars](https://img.shields.io/github/stars/JuanVilla424?style=flat-square&color=00d9ff&labelColor=1a1b27)](https://github.com/JuanVilla424)
+
+</div>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/JuanVilla424?label=Followers&style=social" alt="GitHub followers" />
+## Tech Stack
 
-</div>
+```text
+Cloud & DevOps    AWS • OCI • Terraform • Ansible • Docker • Vault • Linux
+Languages         Python • TypeScript • JavaScript • Java
+Frameworks        React • Node.js • Django
+Databases         MongoDB • PostgreSQL • MySQL • Oracle • Elasticsearch
+CI/CD             GitHub Actions • Jenkins • GitLab CI • AWS CodePipeline
+```
 
----
-
-## 🛠️ Skills & Technologies
-
-<details open>
-<summary><b>💻 Servers & Infrastructure</b></summary>
 <br>
+
+## Stats
+
 <div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Virtualization](https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Storage](https://img.shields.io/badge/Storage-4B0082?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-000000?style=for-the-badge&logo=speedtest&logoColor=white)
-![High Availability](https://img.shields.io/badge/High%20Availability-00AA00?style=for-the-badge&logo=statuspal&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-200003?style=for-the-badge&logo=cisco&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=JuanVilla424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165" alt="Stats"/>
+  </picture>
+  <picture>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JuanVilla424&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=c9d1d9" height="165" alt="Streak"/>
+  </picture>
 </div>
-</details>
 
-<details open>
-<summary><b>🗄️ Databases</b></summary>
 <br>
+
+## Projects
+
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+| Project                                                                    | Description                                |
+| -------------------------------------------------------------------------- | ------------------------------------------ |
+| [**Anisakys**](https://github.com/JuanVilla424/anisakys)                   | Open Phishing Monitor & Threat Hunt Daemon |
+| [**Langding**](https://github.com/JuanVilla424/langding)                   | AI-driven landing page auto-translate      |
+| [**AbuseIPDB IOC**](https://github.com/JuanVilla424/abuseipdb-ioc)         | TAXII2 Processor with REST API for ELK     |
+| [**CI/CD Template**](https://github.com/JuanVilla424/github-cicd-template) | Complete CI/CD Template Repository         |
+| [**Scripts**](https://github.com/JuanVilla424/scripts)                     | CI/CD Core Scripts                         |
+| [**Open ELK Admin**](https://github.com/JuanVilla424/open-elk-adm)         | Elasticsearch Admin Stack                  |
+| [**SMTP Relay**](https://github.com/JuanVilla424/smtp-relay)               | SMTP Relay Docker                          |
+| [**Bjorn**](https://github.com/infinition/Bjorn)                           | WiFi Security Testing Tool                 |
 
 </div>
-</details>
 
-<details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
 <br>
+
+## Connect
+
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-339933?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[are-you-ok?]/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:r6ty5r296it6tl4eg5m.constant214@passinbox.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanVilla424)
 
 </div>
-</details>
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
 <br>
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanVilla424&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="95%" alt="Activity"/>
 
 </div>
-</details>
 
-<details open>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
 <br>
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🔄 CI/CD</b></summary>
-<br>
-<div align="center">
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/AWS-CodePipeline-1E90FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-</div>
-</details>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVilla424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=JuanVilla424&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVilla424&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=JuanVilla424" alt="Contribution Stats" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanVilla424&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📚 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/JuanVilla424/langding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanVilla424&repo=langding&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="Langding" />
-  </a>
-  <a href="https://github.com/JuanVilla424/anisakys">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanVilla424&repo=anisakys&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="Anisakys" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/JuanVilla424/abuseipdb-ioc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanVilla424&repo=abuseipdb-ioc&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="AbuseIPDB IOC" />
-  </a>
-  <a href="https://github.com/JuanVilla424/github-cicd-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanVilla424&repo=github-cicd-template&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub CI/CD Template" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/JuanVilla424/scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanVilla424&repo=scripts&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="Scripts" />
-  </a>
-  <a href="https://github.com/JuanVilla424/open-elk-adm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanVilla424&repo=open-elk-adm&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="Open ELK Admin" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/JuanVilla424/smtp-relay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanVilla424&repo=smtp-relay&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="SMTP Relay" />
-  </a>
-  <a href="https://github.com/infinition/Bjorn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=infinition&repo=Bjorn&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="Bjorn" />
-  </a>
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[are-you-ok?]/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r6ty5r296it6tl4eg5m.constant214@passinbox.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanVilla424)
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanVilla424&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph" />
-</div>
 
 ---
 
 <div align="center">
-
-### 📜 License
-
-**2026** — Each repo contains its proper license. See **LICENSE**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" alt="Footer" />
-
+<sub>2026 — Each repo contains its license</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%" alt="Footer" />
