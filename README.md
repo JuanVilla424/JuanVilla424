@@ -80,7 +80,7 @@ CI/CD             GitHub Actions • Jenkins • GitLab CI • AWS CodePipeline
 ---
 
 <div align="center">
-<sub>2026 — Each repo contains its license</sub>
+<sub>2026 — Each repo contains its own license</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%" alt="Footer" />
