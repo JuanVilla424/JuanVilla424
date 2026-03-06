@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "na0nh"
-version = "1.0.18"
+version = "1.0.19"
 description = "na0nh repo info."
 authors = ["B <g46327wsj1.marbling129@passinbox.com>"]
 license = "GLPv3"
@@ -9,20 +9,20 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
-setuptools = "^75.2.0"
+setuptools = "^82.0.0"
 idna="^3.0"
-certifi="^2024.8.30"
+certifi="^2026.1.4"
 bump2version="^1.0.0"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^4.0.0"
-pylint="^3.3.0"
-isort = "^5.12.0"
+pylint="^4.0.2"
+isort = "^8.0.0"
 toml="^0.10.0"
-black="^24.3.0"
-pytest = "^8.3.1"
+black="^26.1.0"
+pytest = "^9.0.2"
 httpx = "^0.28.1"
-pytest-cov = "^6.0.0"
+pytest-cov = "^7.0.0"
 alembic = "^1.11.1"
 yamllint = "^1.35.0"
 coverage = "^7.2.5"
