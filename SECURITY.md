@@ -1,6 +1,6 @@
 # 🔒 Security Policy
 
-Security Policy for **Na0nh's Repo** repository includes all required compliance matrix and artifact mapping.
+Security Policy for **JuanVilla424** repository includes all required compliance matrix and artifact mapping.
 
 ## 🧮 Supported Versions
 
